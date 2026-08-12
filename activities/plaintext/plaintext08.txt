@@ -1,0 +1,21 @@
+The Robotics Competition
+
+Our robotics club met in a repurposed storage room with flickering fluorescent lights and mismatched furniture. But what we lacked in facilities, we made up for in determination.
+
+"This year's challenge is to design a robot that can sort recycling," announced Ms. Patel, our faculty advisor, pointing to the competition specs projected on the wall. "You'll have three minutes to separate plastics, metals, and paper into the correct bins."
+
+For the next eight weeks, we devoted every spare moment to designing, building, and testing our robot. We named it SORT-E (Systematic Optical Recycling and Trash Evaluator), a waste-sorting machine equipped with sensors to distinguish between different materials.
+
+There were setbacks, of course. The first prototype could barely move. The second moved too fast and crashed into walls. The third had promising sorting capabilities but kept mistaking candy wrappers for actual recyclables.
+
+When competition day arrived, we transported SORT-E carefully to Central High School, where the gymnasium had been transformed into a technological extravaganza of competing robots and cheering teams. Schools from across the state had arrived with professional-looking machines and matching team uniforms.
+
+Our confidence wavered as we watched the first few teams complete the course with impressive efficiency. When our turn came, we wheeled SORT-E to the starting position with collective held breath.
+
+"Three, two, one, GO!" called the announcer.
+
+SORT-E whirred to life, moving methodically through the course. Its sensors correctly identified materials, its mechanical arm placing them in appropriate bins. With ten seconds remaining, it successfully deposited the final piece of aluminum into the metal recycling.
+
+We didn't win first place—that went to a private school with corporate sponsorship and custom-machined parts. But our third-place finish felt like victory for our small club with its limited resources and boundless enthusiasm.
+
+Ms. Patel treated us to pizza afterward. "You know what makes a great engineer?" she asked. "Not fancy equipment. It's creativity, persistence, and teamwork. Today, you showed you have all three."
